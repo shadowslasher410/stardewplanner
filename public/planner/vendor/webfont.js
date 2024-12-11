@@ -1,4 +1,4 @@
-function() {
+!function() {
 	function t(t, n, i) {
 		return t.call.apply(t.bind, arguments)
 	}
